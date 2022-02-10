@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>senai.spmedicalgroup.webApi</name>
+    </assembly>
+    <members>
+        <member name="M:senai.spmedicalgroup.webApi.Interfaces.IUsuarioRepository.ListarTodos">
+            <summary>
+            Retorna todos os objetos cadastrados
+            </summary>
+            <returns>Uma lista de objetos</returns>
+        </member>
+    </members>
+</doc>
